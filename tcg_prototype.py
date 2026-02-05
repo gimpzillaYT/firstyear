@@ -6,14 +6,6 @@ from pygame.locals import *
 MAX_WINDOW = (1280,720)
 IMG_MANAGER = {}
 
-
-##read_me
-##bbno$ baseball draft sim//cartoonish//fast and feel
-#working title: high-fantasy-draft
-#
-#inprg: field class
-#bug: 
-
 ##main
 async def main():
     pygame.init()
